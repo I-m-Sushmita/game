@@ -1,0 +1,44 @@
+name: Generate Character Assets
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'characters/**'
+      - 'tools/generate_character_assets.py'
+      - 'requirements.txt'
+      - '.github/workflows/generate-character-assets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate sprites
+        run: python tools/generate_character_assets.py
+
+      - name: Commit generated PNG assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated_characters/
+          if git diff --cached --quiet; then
+            echo "No generated asset changes."
+          else
+            git commit -m "Generate City of Monsoon character sprites"
+            git push
+          fi
