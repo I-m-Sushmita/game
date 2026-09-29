@@ -1,0 +1,14 @@
+{
+  "id": "dr_sen",
+  "name": "Dr. Sen",
+  "role": "Doctor",
+  "sex": "female",
+  "skin": "#B87A58",
+  "hair": "#28201F",
+  "top": "#D9DDD6",
+  "undershirt": "#7A99A1",
+  "pants": "#D0D4CF",
+  "shoes": "#4B4D4B",
+  "accent": "#8FB2B9",
+  "accessory": "stethoscope"
+}

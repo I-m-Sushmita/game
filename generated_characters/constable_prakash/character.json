@@ -1,0 +1,14 @@
+{
+  "id": "constable_prakash",
+  "name": "Constable Prakash",
+  "role": "Police Constable",
+  "sex": "male",
+  "skin": "#9C6545",
+  "hair": "#1E1A18",
+  "top": "#8A7859",
+  "undershirt": "#D8C69D",
+  "pants": "#655740",
+  "shoes": "#1A1715",
+  "accent": "#A18E66",
+  "accessory": "cap"
+}

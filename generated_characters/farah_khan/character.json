@@ -1,0 +1,14 @@
+{
+  "id": "farah_khan",
+  "name": "Farah Khan",
+  "role": "Cafe Owner",
+  "sex": "female",
+  "skin": "#A86B4F",
+  "hair": "#2B1C1D",
+  "top": "#653F36",
+  "undershirt": "#D8C3A8",
+  "pants": "#3A302C",
+  "shoes": "#251C19",
+  "accent": "#B77945",
+  "accessory": "apron"
+}

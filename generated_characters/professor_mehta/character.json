@@ -1,0 +1,14 @@
+{
+  "id": "professor_mehta",
+  "name": "Professor Mehta",
+  "role": "College Professor",
+  "sex": "male",
+  "skin": "#A76B4B",
+  "hair": "#4A4640",
+  "top": "#514B48",
+  "undershirt": "#E2DAC5",
+  "pants": "#343334",
+  "shoes": "#211C1A",
+  "accent": "#6F6059",
+  "accessory": "glasses"
+}

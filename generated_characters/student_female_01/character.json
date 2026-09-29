@@ -1,0 +1,14 @@
+{
+  "id": "student_female_01",
+  "name": "Female Student 01",
+  "role": "Crowd NPC",
+  "sex": "female",
+  "skin": "#B97856",
+  "hair": "#2C1E20",
+  "top": "#A65A44",
+  "undershirt": "#E6BD78",
+  "pants": "#38556E",
+  "shoes": "#201B19",
+  "accent": "#7C6850",
+  "accessory": "none"
+}

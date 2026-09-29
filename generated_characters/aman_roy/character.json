@@ -1,0 +1,14 @@
+{
+  "id": "aman_roy",
+  "name": "Aman Roy",
+  "role": "Delivery Rider",
+  "sex": "male",
+  "skin": "#A66E4B",
+  "hair": "#231D1B",
+  "top": "#A74432",
+  "undershirt": "#E0D0B5",
+  "pants": "#25323B",
+  "shoes": "#181A1B",
+  "accent": "#DA6E3D",
+  "accessory": "delivery_bag"
+}

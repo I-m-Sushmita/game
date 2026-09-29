@@ -1,0 +1,14 @@
+{
+  "id": "student_male_02",
+  "name": "Male Student 02",
+  "role": "Crowd NPC",
+  "sex": "male",
+  "skin": "#936043",
+  "hair": "#332319",
+  "top": "#7A3E3D",
+  "undershirt": "#C4A16A",
+  "pants": "#2B3035",
+  "shoes": "#201B19",
+  "accent": "#7C6850",
+  "accessory": "none"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "keshab_verma",
+  "name": "Keshab Verma",
+  "role": "Protagonist",
+  "sex": "male",
+  "skin": "#B9784F",
+  "hair": "#17151A",
+  "top": "#27303A",
+  "undershirt": "#D9D3C4",
+  "pants": "#1D2630",
+  "shoes": "#2B211D",
+  "accent": "#8C4A34",
+  "accessory": "backpack"
+}

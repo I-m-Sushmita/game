@@ -1,0 +1,14 @@
+{
+  "id": "civilian_male_01",
+  "name": "Street Civilian Male",
+  "role": "Crowd NPC",
+  "sex": "male",
+  "skin": "#A76B48",
+  "hair": "#1D1A17",
+  "top": "#626A55",
+  "undershirt": "#D2C5A0",
+  "pants": "#3A4037",
+  "shoes": "#201B19",
+  "accent": "#7C6850",
+  "accessory": "none"
+}

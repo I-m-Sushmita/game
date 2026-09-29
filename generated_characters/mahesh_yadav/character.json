@@ -1,0 +1,14 @@
+{
+  "id": "mahesh_yadav",
+  "name": "Mahesh Yadav",
+  "role": "Security Guard",
+  "sex": "male",
+  "skin": "#A66B4B",
+  "hair": "#241D1B",
+  "top": "#53656B",
+  "undershirt": "#B9C1B9",
+  "pants": "#334249",
+  "shoes": "#1A1B1A",
+  "accent": "#8D7B3B",
+  "accessory": "cap"
+}

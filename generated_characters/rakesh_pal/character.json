@@ -1,0 +1,14 @@
+{
+  "id": "rakesh_pal",
+  "name": "Rakesh Pal",
+  "role": "Mechanic",
+  "sex": "male",
+  "skin": "#9B6343",
+  "hair": "#201B19",
+  "top": "#34414A",
+  "undershirt": "#8F5A37",
+  "pants": "#252D32",
+  "shoes": "#151719",
+  "accent": "#6B7C86",
+  "accessory": "tool"
+}

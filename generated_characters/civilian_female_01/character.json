@@ -1,0 +1,14 @@
+{
+  "id": "civilian_female_01",
+  "name": "Street Civilian Female",
+  "role": "Crowd NPC",
+  "sex": "female",
+  "skin": "#B87A55",
+  "hair": "#261B1B",
+  "top": "#874B62",
+  "undershirt": "#D6B07A",
+  "pants": "#483448",
+  "shoes": "#201B19",
+  "accent": "#7C6850",
+  "accessory": "none"
+}
