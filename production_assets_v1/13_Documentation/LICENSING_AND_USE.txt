@@ -1,0 +1,1 @@
+These generated assets were created specifically for this project in ChatGPT. Keep this file with the project. If third-party assets are later mixed into the project, track their licenses separately in a dedicated attribution file.
